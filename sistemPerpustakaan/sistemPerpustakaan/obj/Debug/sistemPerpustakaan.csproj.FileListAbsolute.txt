@@ -1,0 +1,2 @@
+D:\LEARN\Kuliah\PPL\sistemPerpustakaan\sistemPerpustakaan\bin\Debug\sistemPerpustakaan.exe.config
+D:\15312365_Ayas-Zakaria\sistemPerpustakaan\sistemPerpustakaan\bin\Debug\sistemPerpustakaan.exe.config
